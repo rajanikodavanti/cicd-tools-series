@@ -1,4 +1,4 @@
-name: Terraform  # Name of the workflow
+name: Terraform1  # Name of the workflow
 
 on:
  workflow_dispatch:  # This is for manual triggering the workflow
