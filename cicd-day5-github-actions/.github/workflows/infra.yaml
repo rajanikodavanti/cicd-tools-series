@@ -7,9 +7,8 @@ on:
 
   # push:
   #   branches: [ main ]
-
-  jobs:
-    teeraform vpc:
+jobs:
+    teeraform_vpc:
     runs-on: ubuntu-latest
 
 
